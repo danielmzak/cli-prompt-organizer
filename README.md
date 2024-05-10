@@ -1,5 +1,3 @@
-Here's a rewritten version with some minor improvements for clarity and readability:
-
 **Personal CLI Tool for Prompt Saving/Retreving**
 =====================================================
 
