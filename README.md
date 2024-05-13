@@ -63,6 +63,9 @@ prompt:
   }
 }
 ```
+
+![alt text](./imgs/fzf-screen-example-01.png)
+
 **Notes**
 ----
 - Scripts use `xclip`, `yq`, `fzf`, so install them first.
