@@ -13,6 +13,7 @@ extract_yaml_value() {
 # Function to copy text to the clipboard
 copy_to_clipboard() {
     echo -n "$1" | xclip -selection clipboard
+    sleep 0.5
 }
 
 # Find all .yaml files in the specified path and create an array of "search_by: filepath"
